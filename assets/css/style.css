@@ -105,6 +105,10 @@ h6 {
   color: #fff;
 }
 
+#header .logo b {
+  color: #000000;
+}
+
 #header .logo img {
   max-height: 40px;
 }
@@ -856,7 +860,8 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider img {
-  width: 100%;
+  width: 50%;
+  height: 50%;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
@@ -1335,7 +1340,7 @@ section {
 .breadcrumbs {
   padding: 15px 0;
   background: #f6f4f4;
-  margin-top: 67px;
+  /* margin-top: 67px; */
 }
 
 @media (max-width: 992px) {

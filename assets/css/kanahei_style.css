@@ -247,6 +247,13 @@ fieldset[disabled] .s-btn {
   padding: 1rem 2.5rem;
 }
 
+.s-btn--big {
+  font-size: 1.0125rem;
+  font-weight: 400;
+  padding: 1rem 2.5rem;
+}
+
+
 .s-btn-icon--md {
   font-size: 1rem;
   padding: 0.9375rem 1.5625rem 0.75rem;
